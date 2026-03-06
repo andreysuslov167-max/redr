@@ -1,0 +1,11 @@
+[package]
+name = "redrIDE"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+eframe = "0.27"
+egui = "0.27"
+tinyfiledialogs = "3.9"
+syntect = "5.2"
+egui_code_editor = "0.1.0"
